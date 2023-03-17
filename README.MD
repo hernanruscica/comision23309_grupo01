@@ -1,3 +1,10 @@
+## pasos
+- dejar los email en el grupo de  WhatsApp
+- con esos mail los voy agregando
+- cuando estén los 10 colaboradores, empezar a agregar sus nombre en orden alfabético.
+- hay que hacerlo por orden, porque al trabajar en la misma rama, se pueden generar conflictos.
+- no lo pueden hacer dos usuarios simultáneamente porque se puede romper ..
+
 ## Consignas
 - Una persona del grupo debe crear un repositorio con el archivo "presentismo.txt"
 - Esa persona agrega a sus compañeros como colaboradores.
